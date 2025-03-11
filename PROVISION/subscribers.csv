@@ -1,0 +1,7 @@
+subscriberAccountNumber,provision,clientName,oltReportedUpstream,oltReportedDownstream,onuDeviceName,packageType,status
+RES-202103-14054,MBYBW1,"Eduave, Sam Kresser",10000,10000,TEST_API_MIGRATION_bw1,SP220K12M,active_for_migration
+RES-202103-14055,MBYBW2,"Dela Cruz, Juan",15000,12000,TEST_API_MIGRATION_bw2,SP250K12M,active_for_migration
+RES-202103-14056,MBYBW3,"Santos, Maria",20000,18000,TEST_API_MIGRATION_bw3,SP300K12M,active_for_migration
+RES-202103-14057,MBYBW4,"Santos, Maria 2",20000,18000,TEST_API_MIGRATION_bw4,SP300K12M,active_for_migration
+RES-202103-14058,MBYBW5,"Santos, Maria 3",20000,18000,TEST_API_MIGRATION_bw5,SP300K12M,active_for_migration
+RES-202103-14059,MBYBW6,"Santos, Maria 4 ",20000,18000,TEST_API_MIGRATION_bw6,SP300K12M,active_for_migration
